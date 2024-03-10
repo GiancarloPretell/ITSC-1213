@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
+public class dogStats{
 
-public class DogStats {
     public static void main(String[] args) {
         //Create the scanner
         Scanner scanner = new Scanner(System.in);
@@ -22,4 +22,3 @@ public class DogStats {
         System.out.println("The dog's breed is: " + myDog.getBreed());
     }
 }
-
