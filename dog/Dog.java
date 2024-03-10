@@ -1,4 +1,3 @@
-package dog;
 public class Dog {
     
     private String name;
